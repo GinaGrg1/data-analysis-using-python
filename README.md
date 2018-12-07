@@ -1,3 +1,3 @@
 # data-analysis-using-python
 
-Analysing data using Python.
+Analysing twitter data using Python.
