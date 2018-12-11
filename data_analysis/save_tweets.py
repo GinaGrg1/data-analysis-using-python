@@ -9,10 +9,10 @@ from sqlalchemy.orm.exc import NoResultFound
 
 from data_analysis.database import session, Tweet, Hashtag, User
 
-consumer_key='KxmAEcIARao1Xc6pP8tYKNUwl'
-consumer_secret='L1s4zkQOpvpu0kG92eDP6DwLwqjkXT1co84DYG5udVjfqBZGYr'
-access_token='891423290035666950-sXW3wgmS0Zy9x50j68viAq7ci4IeecJ'
-access_token_secret='Xz9iYAdF5Wdecpzx6Nt6HqdibcvCQOLs4998xRYH6gKlF'
+consumer_key=''
+consumer_secret=''
+access_token=''
+access_token_secret=''
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
