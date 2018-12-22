@@ -2,7 +2,7 @@ import json
 from tweepy.streaming import StreamListener, Stream, API
 from tweepy import OAuthHandler
 
-consumer_key='KxmAEcIARao1Xc6pP8tYKNUwl'
+consumer_key=''
 consumer_secret='L1s4zkQOpvpu0kG92eDP6DwLwqjkXT1co84DYG5udVjfqBZGYr'
 access_token='891423290035666950-sXW3wgmS0Zy9x50j68viAq7ci4IeecJ'
 access_token_secret='Xz9iYAdF5Wdecpzx6Nt6HqdibcvCQOLs4998xRYH6gKlF'
