@@ -1,7 +1,7 @@
 appnope==0.1.0
 attrs==18.2.0
 backcall==0.1.0
-bleach==3.0.2
+bleach==3.1.2
 certifi==2018.11.29
 chardet==3.0.4
 -e git+https://github.com/GinaGrg1/data-analysis-using-python.git@73b7ced869355f1dfc6ff83c75df8951b549743b#egg=data_analysis
